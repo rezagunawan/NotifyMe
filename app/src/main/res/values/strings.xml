@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notify Me!</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="update_me">Update me</string>
+    <string name="cancel_me">Cancel Me</string>
+    <string name="notification_text">Text Notifikasi</string>
+    <string name="notification_title">Ini Notifikasi</string>
+    <string name="notification_updated">Update Notifikasi</string>
+    <string name="learn_more">Learn More</string>
+</resources>
